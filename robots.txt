@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-t5xysy.originmovement.co.nz/sitemap.xml
